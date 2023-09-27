@@ -4,6 +4,6 @@
 int main(void){
     /*calling "printf" function
     the "definition" is included in "stdio" library*/
-    printf("Hello, McMaster !\n");
+    printf("Hello, McMaster!\n");
     return 0;
 }
